@@ -1,3 +1,5 @@
+# FORKED FROM XRTce/snapchat-takeout
+
 # snapchat-takeout
 ## Snapchat Takeout (GDPR) Memories Downloader
 ### This Python3 application downloads your media files (known as memories) from Snapchat servers to your local disk.
@@ -5,7 +7,7 @@
 When [requesting your data from Snapchat](https://accounts.snapchat.com/accounts/downloadmydata) they sadly only include a `.json` file which contains a seperate download link for each memory file.
 This application parses the `.json` file, then does it's best to download the files to local disk.
 
-## Snapchat is constantly changing their way of letting you download your data. This app is outdated as of now. Please use this one: https://github.com/ToTheMax/Snapchat-All-Memories-Downloader
+
 
 **Iam grateful for any suggestions/tips for improvement. This is my first Python project**
 
@@ -22,7 +24,6 @@ This application parses the `.json` file, then does it's best to download the fi
 - Maybe i forgot some, it's been a long day ¯\\\_(ツ)\_/¯
 
 ### Disclaimer:
-I promise: i did my best not making any mistakes but Iam just a human as you are. (worse: iam a Student) Well, you guessed it: we make mistakes so please **Don't trust this application before you read and understood the code, it is commented. I will not take any damage caused by this application on me**
 
 ### Usage
 1. Put your `memories_history.json` file into the project's root folder
