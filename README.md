@@ -9,8 +9,6 @@ This application parses the `.json` file, then does it's best to download the fi
 
 
 
-**Iam grateful for any suggestions/tips for improvement. This is my first Python project**
-
 ### Features:
 - File Handling
   - Apply naming sheme (Default: `Snapchat-YYYY-MM-DD_HHMMSS[1..n].ext`)
